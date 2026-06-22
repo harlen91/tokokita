@@ -52,7 +52,7 @@
 
                                 <!-- Tombol Edit (Boleh menggunakan Link biasa karena method GET) -->
                                 <a href="/produk/{{ $item->id }}/edit" class="btn btn-sm btn-outline-warning w-50 me-2">
-                                    Edit
+                                    Ubah
                                 </a>
 
                                 <!-- Tombol Hapus (WAJIB menggunakan Form) -->
