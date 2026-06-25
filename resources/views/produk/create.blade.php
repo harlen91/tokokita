@@ -52,7 +52,7 @@
                             @enderror
                         </div>
 
-                        <button type="submit" class="btn btn-success">Simpan Data</button>
+                        <button type="submit" class="btn btn-success">Save</button>
                         <a href="/produk" class="btn btn-secondary">Batal / Kembali</a>
                     </form>
                 </div>
